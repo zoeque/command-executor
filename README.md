@@ -1,2 +1,3 @@
-# command-server
-execute local batch file or command file via REST request
+# 概要
+RESTの要求を受け取って手元のコマンドファイルを動かしたいというシーンがあったので、ちょんぷろとして作成。  
+本アプリケーションはあくまでちょんぷろなので、これで発生したインシデントについて、作成者は一切の責任を負いません。
